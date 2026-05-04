@@ -1,7 +1,8 @@
 # Retail-Sales-Analysis-Excel-Dashboard
 A comprehensive Excel dashboard analyzing $620k in retail sales across North America, featuring multi-channel performance tracking and regional profitability insights.
 
-# Retail Sales Performance Dashboard
+# REPORT VIEW
+<img width="1316" height="546" alt="Image" src="https://github.com/user-attachments/assets/3cbc8111-213c-4233-acbc-6fcd7e2fc19f" />
 
 ## 📊 Project Overview
 This repository contains a comprehensive retail sales dataset and analysis framework designed for business intelligence and data visualization. The project tracks multi-channel sales performance across North America, providing insights into profitability, customer behavior, and regional trends.
