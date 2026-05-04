@@ -9,8 +9,6 @@ This repository contains a comprehensive retail sales dataset and analysis frame
 
 The primary goal of this project is to demonstrate data transformation, pivot table analysis, and dashboarding capabilities using Excel and Python-friendly datasets.
 
-[Image of a professional business intelligence dashboard with sales charts and KPIs]
-
 ## 📁 File Descriptions
 * **`Dataset.csv`**: The raw transactional data containing 2,026 records. It includes details such as Order IDs, Product Categories, Sales, COGS, and Profits.
 * **`ANALYSIS.csv`**: A processed file containing aggregated summaries, including performance metrics by country, sales channel, and payment method.
